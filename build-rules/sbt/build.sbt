@@ -1,7 +1,7 @@
 import sbt.complete._
 
 organization := "edu.berkeley.cs"
-version := "1.0.0"
+version := "1.2-SNAPSHOT"
 name := "api-config-chipsalliance"
 scalaVersion := "2.12.10"
 
